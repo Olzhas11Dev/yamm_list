@@ -4,54 +4,63 @@
       "title": "Milk",
       "price": 3.69,
       "img": "/img/Milk.994362e5.png",
+      "quantity": 1,
       "id": "1"
     },
     {
       "title": "Flour",
       "price": 1.8,
       "img": "/img/Flour.cf9e5e66.png",
+      "quantity": 1,
       "id": "2"
     },
     {
       "title": "Apple",
       "price": 3.99,
       "img": "/img/Apple.49a70f87.png",
+      "quantity": 1,
       "id": "3"
     },
     {
       "title": "Beef Mince",
       "price": 20.99,
       "img": "/img/Beef_mince.50fdc35b.png",
+      "quantity": 1,
       "id": "4"
     },
     {
       "title": "Chicken Breast",
       "price": 10.99,
       "img": "/img/Chicken_Breast.13acbd87.png",
+      "quantity": 1,
       "id": "5"
     },
     {
       "title": "Potato",
       "price": 6.49,
       "img": "/img/Potatos.81dfbd55.png",
+      "quantity": 1,
       "id": "6"
     },
     {
       "title": "Salmon",
       "price": 36.99,
       "img": "/img/Salmon.15e1af5b.png",
+      "quantity": 1,
       "id": "7"
     },
     {
       "title": "Chocolate",
       "price": 4.6,
       "img": "/img/Chocolate.29222b80.png",
+      "quantity": 1,
       "id": "8"
     },
     {
       "title": "Bananas",
       "price": 2.7,
       "img": "/img/Bananas.7d7d2513.png",
+      "quantity": 1,
       "id": "9"
     }
   ]
